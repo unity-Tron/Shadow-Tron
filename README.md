@@ -6,4 +6,4 @@ Shadow Tron is an action-adventure game set in a vibrant cyberpunk universe, whe
 That is How the Game intreface will Litreally Look Like.
 In Shadow Tron, the game's interface is designed to provide an immersive and intuitive experience, making it easy for players to navigate through the vibrant 3D world while staying focused on the action and story.
 
-Coming Soon
+<h1>Coming Soon</h1>
