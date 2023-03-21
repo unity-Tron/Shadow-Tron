@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8400b1d3a0377c54a905dc72275e5f7f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Coben
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 81742eebe2620af4881451fad6185939, type: 3}
+  - {fileID: 12800000, guid: 145d7612d8d0f2742852804f0383a843, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
